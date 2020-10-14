@@ -12,6 +12,7 @@
         <module>factory-method</module>
         <module>factory-simple</module>
         <module>builder</module>
+        <module>adapter-sample</module>
     </modules>
     <packaging>pom</packaging>
 
