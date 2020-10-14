@@ -13,6 +13,7 @@
         <module>factory-simple</module>
         <module>builder</module>
         <module>adapter-sample</module>
+        <module>image.proxy</module>
     </modules>
     <packaging>pom</packaging>
 
